@@ -4,5 +4,5 @@
 ## Screenshot
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/98055405/215622518-de4a2d25-9516-4126-a7c2-5f89dc7b5a59.png" width="255"/>
+<img src="https://user-images.githubusercontent.com/98055405/215718057-2dddbfa4-1508-45f2-8771-6bfac5184167.png" width="300"/>
 </p>
