@@ -13,9 +13,9 @@ class HomeScreenInteractor: PresenterToInteractorHomeScreenProtocol {
     func uploadPosts() {
         var postList = [Post]()
         
-        let post1 = Post(name: "Macy Shannon", profilePhoto: "profile_photo_2", information: "iOS Developer at LinkedIn", closeness: .first, postTime: Date.now.addingTimeInterval(-261831), postLetter: "Swift Logo", postPhoto: "swift_logo", numberOfPostLikes: 79, numberOfPostComments: 41, numberOfPostReposts: 34)
+        let post1 = Post(name: "Macy Shannon", profilePhoto: "profile_photo_2", information: "iOS Developer at LinkedIn", closeness: .first, postTime: Date.now.addingTimeInterval(-261831), postLetter: "LinkedIn ui clone done", postPhoto: "linkedin", numberOfPostLikes: 79, numberOfPostComments: 41, numberOfPostReposts: 34)
         
-        let post2 = Post(name: "Anais Krueger", profilePhoto: "profile_photo_3", information: "Android Developer at LinkedIn", closeness: .third, postTime: Date.now.addingTimeInterval(-9479172), postLetter: "LinkedIn ui clone done", postPhoto: "linkedin", numberOfPostLikes: 144, numberOfPostComments: 45, numberOfPostReposts: 59)
+        let post2 = Post(name: "Anais Krueger", profilePhoto: "profile_photo_3", information: "Android Developer at LinkedIn", closeness: .third, postTime: Date.now.addingTimeInterval(-9479172), postLetter: "I would like to share my LinkedIn UI Clone application, which is my homework within the scope of iOSBootcamp with Swift. Thanks for your effort, Kasım Adalan Teacher, thank you Techcareer.net", postPhoto: nil, numberOfPostLikes: 144, numberOfPostComments: 45, numberOfPostReposts: 59)
         
         let post3 = Post(name: "Elinor Rollins", profilePhoto: "profile_photo_4", information: "Backend Developer at LinkedIn", closeness: .first, postTime: Date.now.addingTimeInterval(-931234), postLetter: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.", postPhoto: nil, numberOfPostLikes: 260, numberOfPostComments: 199, numberOfPostReposts: 100)
         

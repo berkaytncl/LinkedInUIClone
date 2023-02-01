@@ -83,8 +83,8 @@ extension HomeScreen: UITableViewDelegate, UITableViewDataSource {
             cell.postTimeLabel.text = "\(time.minute)m"
         }
         
-        if post.postLetter.utf16.count >= 86 {
-            cell.postLetterLabel.text = String(post.postLetter.prefix(86))
+        if post.postLetter.utf16.count >= 87 {
+            cell.postLetterLabel.text = String(post.postLetter.prefix(87))
             cell.postSeeMoreButton.isHidden = false
         } else {
             cell.postLetterLabel.text = post.postLetter
