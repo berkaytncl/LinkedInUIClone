@@ -1,5 +1,4 @@
-# TechcareeriOSBootcampHw6
-- LinkedIn UI Clone
+# LinkedIn UI Clone
 
 ## Screenshot
 
